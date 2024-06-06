@@ -7,6 +7,8 @@ class School
 	{
 	
 		System.out.println("HI My School Name is Rajdhani High School");
+		System.out.println("HI My School Name is Rajdhani High School");
+		
 	
 	
 	
